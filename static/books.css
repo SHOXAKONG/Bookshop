@@ -7,7 +7,7 @@
 }
 
 .book_detail h1{
-    text-align: center;
+    /*text-align: center;*/
     margin-bottom: 20px;
 }
 
@@ -15,8 +15,4 @@
     margin-top: 20px;
     font-size: 24px;
     font-weight: 600;
-}
-
-.book_detail .container h2, h4 {
-    text-align: center;
 }
