@@ -1,7 +1,4 @@
 from django.contrib import admin
-from .models import *
-
-admin.site.register([Author, Book, Cart, Order, OrderDetail, Blog])
 from .models import Author, Book, Cart, Blog, Code
 
 @admin.register(Author)
